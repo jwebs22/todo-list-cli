@@ -1,5 +1,3 @@
-//just for playing and not messing up the main file beyond recognition. 
-
 const prompt = require('prompt-sync')({sigint: true});
 
 function userPrompt()
